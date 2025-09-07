@@ -20,7 +20,7 @@ This extension requires a **Gemini API key**:
 ## 🚀 Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/ai-article-summarizer.git
+   git clone https://github.com/asadrehman1/AI-Article-Summarize-Chrome-Extension.git
 
 ## 💻 Development  
 To run the extension locally, follow these steps:
